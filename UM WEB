@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Modern Business Solutions | Home</title>
+</head>
+<body>
+
+<!-- Main Header Section -->
+<header>
+<h1>Welcome to Modern Business Solutions</h1>
+<p>We help small businesses grow their digital presence with modern, efficient, and affordable strategy tools.</p>
+</header>
+
+<hr>
+
+<!-- Services Section -->
+<main>
+<section>
+<h2>Our Core Services</h2>
+<h3>What We Do Best</h3>
+<p>Our team focuses on three primary pillars to ensure your business succeeds in today's competitive online market:</p>
+
+<!-- Unordered List Requirement -->
+<ul>
+<li>Custom Web Development and Clean Coding</li>
+<li>Search Engine Optimization (SEO)</li>
+<li>Digital Marketing Strategy</li>
+</ul>
+</section>
+
+<section>
+<h2>Why Choose Us?</h2>
+<!-- Image with descriptive Alt text -->
+<img src="https://unsplash.com" alt="A clean workspace showing a laptop displaying business analytics charts and graphs">
+<p>We prioritize accessibility, clean design, and clear structure to make sure your customers have the best experience possible.</p>
+</section>
+
+<!-- Links and Navigation Section -->
+<section>
+<h2>Get In Touch</h2>
+<p>Ready to scale your operations? You can explore our external industry resources to learn more.</p>
+<!-- Meaningful Link Text Requirement -->
+<p>Visit the <a href="https://w3.org" target="_blank">World Wide Web Consortium (W3C)</a> to learn about global web standards.</p>
+</section>
+</main>
+
+<hr>
+
+<!-- Footer Section -->
+<footer>
+<p>&copy; 2026 Modern Business Solutions. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
